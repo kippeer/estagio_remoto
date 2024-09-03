@@ -1,7 +1,8 @@
-Resposta 1 - fibonacci
-
-Requisitos
+# Requisitos
 Node.js (você pode verificar se já está instalado com node -v)
+
+
+## Resposta 1 - fibonacci
 
 
 Execute o script:
@@ -22,7 +23,7 @@ node fibonacci.js 21
 
 ------------------------------------------------
 
-Resposta 2- Verificar letra a
+## Resposta 2- Verificar letra a
 
 -Digite o comando no terminal :
 
@@ -35,13 +36,13 @@ Exemplo de execução:
 node verifica.js "A raposa marrom pula sobre o cão"
 ------------------------------------------
 
-Resposta 3
+## Resposta 3
 
 Resultado = 77
 
 ----------------------
 
-Resposta 4
+## Resposta 4
 
 a) 1, 3, 5, 7, ___
 
@@ -67,3 +68,20 @@ f) 2, 10, 12, 16, 17, 18, 19, ____
 
 Resposta: 200
 
+-------------------------------
+
+## Resposta 5
+
+Primeira Ida você irá:
+
+Ligar o primeiro interruptor e deixe-o ligado por um período de tempo considerável (por exemplo, 10 minutos). Isso fará com que a lâmpada conectada a esse interruptor aqueça.
+
+Após o período de tempo, desligue o primeiro interruptor e ligue o segundo interruptor. Deixe o segundo interruptor ligado.
+
+Vá até as salas das lâmpadas e observe o seguinte:
+
+1- A lâmpada que está acesa está conectada ao segundo interruptor (o que você deixou ligado antes de ir até as salas).
+
+2- A lâmpada que está apagada e quente está conectada ao primeiro interruptor (o que você deixou ligado por um tempo e depois desligou).
+
+3- A lâmpada que está apagada e fria está conectada ao terceiro interruptor (o que você nunca ligou).
