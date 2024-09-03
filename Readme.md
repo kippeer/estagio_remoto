@@ -1,87 +1,87 @@
+# Requisitos
+Node.js (você pode verificar se já está instalado com node -v)
 
 
-## Requisitos
+## Resposta 1 - fibonacci
 
-- **Node.js**: Certifique-se de que o Node.js esteja instalado. Você pode verificar se ele está instalado com o comando:
-  \`\`\`bash
-  node -v
-  \`\`\`
 
-## Resposta 1: Fibonacci
+Execute o script:
 
-Para calcular a sequência de Fibonacci, siga estas etapas:
+Abra o terminal, navegue até o diretório onde você salvou o arquivo fibonacci.js, e execute o script passando um número como argumento.
 
-1. Navegue até o diretório onde você salvou o arquivo \`fibonacci.js\`.
-2. Execute o script passando um número como argumento:
-   \`\`\`bash
-   node fibonacci.js <número>
-   \`\`\`
-   Substitua \`<número>\` pelo número desejado.
+-Digite o comando no terminal :
 
-   **Exemplo de execução:**
-   \`\`\`bash
-   node fibonacci.js 21
-   \`\`\`
+node fibonacci.js <número>
 
-## Resposta 2: Verificar Letra
 
-Para verificar uma string, siga estas etapas:
+Substitua <número> pelo número que você deseja verificar. 
 
-1. Execute o script passando uma string como argumento:
-   \`\`\`bash
-   node verifica.js <string>
-   \`\`\`
-   Substitua \`<string>\` pela string desejada.
 
-   **Exemplo de execução:**
-   \`\`\`bash
-   node verifica.js "A raposa marrom pula sobre o cão"
-   \`\`\`
+Exemplo de execução:
+
+node fibonacci.js 21
+
+------------------------------------------------
+
+## Resposta 2- Verificar letra a
+
+-Digite o comando no terminal :
+
+node verifica.js <string>
+
+Substitua <string> pela string desejada.
+
+Exemplo de execução:
+
+node verifica.js "A raposa marrom pula sobre o cão"
+------------------------------------------
 
 ## Resposta 3
 
 Resultado = 77
 
+----------------------
+
 ## Resposta 4
 
-Preencha as lacunas com as respostas corretas:
+a) 1, 3, 5, 7, ___
 
-a) 1, 3, 5, 7, \_\_\_
+Resposta: 9
 
-   **Resposta**: 9
+b) 2, 4, 8, 16, 32, 64, ____
 
-b) 2, 4, 8, 16, 32, 64, \_\_\_
+Resposta: 128
 
-   **Resposta**: 128
+c) 0, 1, 4, 9, 16, 25, 36, ____
 
-c) 0, 1, 4, 9, 16, 25, 36, \_\_\_
+Resposta: 49
 
-   **Resposta**: 49
+d) 4, 16, 36, 64, ____
 
-d) 4, 16, 36, 64, \_\_\_
+Resposta: 100
 
-   **Resposta**: 100
+e) 1, 1, 2, 3, 5, 8, ____
 
-e) 1, 1, 2, 3, 5, 8, \_\_\_
+Resposta: 13
 
-   **Resposta**: 13
+f) 2, 10, 12, 16, 17, 18, 19, ____
 
-f) 2, 10, 12, 16, 17, 18, 19, \_\_\_
+Resposta: 200
 
-   **Resposta**: 200
+-------------------------------
 
 ## Resposta 5
 
-Para identificar qual lâmpada corresponde a cada interruptor, siga estas etapas:
+Primeira Ida você irá:
 
-1. Ligue o primeiro interruptor e deixe-o ligado por um período de tempo considerável (por exemplo, 10 minutos). Isso fará com que a lâmpada conectada a esse interruptor aqueça.
+Ligar o primeiro interruptor e deixe-o ligado por um período de tempo considerável (por exemplo, 10 minutos). Isso fará com que a lâmpada conectada a esse interruptor aqueça.
 
-2. Após o período de tempo, desligue o primeiro interruptor e ligue o segundo interruptor. Deixe o segundo interruptor ligado.
+Após o período de tempo, desligue o primeiro interruptor e ligue o segundo interruptor. Deixe o segundo interruptor ligado.
 
-3. Vá até as salas das lâmpadas e observe o seguinte:
+Vá até as salas das lâmpadas e observe o seguinte:
 
-   1. A lâmpada que está acesa está conectada ao segundo interruptor (o que você deixou ligado antes de ir até as salas).
+1- A lâmpada que está acesa está conectada ao segundo interruptor (o que você deixou ligado antes de ir até as salas).
 
-   2. A lâmpada que está apagada e quente está conectada ao primeiro interruptor (o que você deixou ligado por um tempo e depois desligou).
+2- A lâmpada que está apagada e quente está conectada ao primeiro interruptor (o que você deixou ligado por um tempo e depois desligou).
 
-   3. A lâmpada que está apagada e fria está conectada ao terceiro interruptor (o que você nunca ligou).
+3- A lâmpada que está apagada e fria está conectada ao terceiro interruptor (o que você nunca ligou).
