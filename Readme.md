@@ -21,7 +21,9 @@ Para calcular a sequência de Fibonacci, siga estas etapas:
    node fibonacci.js 21
    
 
-## Resposta 2: Verificar Letra
+## Resposta 2: Verificar Letra A
+
+Obs: A expressão regular fornecida const regex = /a|à|á|â|ã|ä|å/g; é projetada para corresponder a todas as variantes da letra "a" com diferentes acentos e diacríticos.
 
 Para verificar uma string, siga estas etapas:
 
