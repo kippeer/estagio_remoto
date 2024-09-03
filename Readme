@@ -13,7 +13,7 @@ Abra o terminal, navegue até o diretório onde você salvou o arquivo fibonacci
 node fibonacci.js <número>
 
 
-Substitua <número> pelo número que você deseja verificar. Por exemplo:
+Substitua <número> pelo número que você deseja verificar. 
 
 
 Exemplo de execução:
@@ -21,3 +21,20 @@ Exemplo de execução:
 node fibonacci.js 21
 
 ------------------------------------------------
+
+Resposta 2- Verificar letra a
+
+-Digite o comando no terminal :
+
+node verifica.js <string>
+
+Substitua <string> pela string desejada.
+
+Exemplo de execução:
+
+node verifica.js "A raposa marrom pula sobre o cão"
+------------------------------------------
+
+Resposta 3
+
+Resultado = 77
