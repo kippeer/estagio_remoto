@@ -1,7 +1,7 @@
 ## Requisitos
 
-- **Node.js**: Certifique-se de que o Node.js esteja instalado. Você pode verificar se ele está instalado com o comando:
-  \`\`\`bash
+- **Node.js**: Certifique-se de que o Node.js esteja instalado. Você pode verificar se ele está instalado com o comando no terminal:
+  \`\`\`
   node -v
   \`\`\`
 
@@ -11,13 +11,13 @@ Para calcular a sequência de Fibonacci, siga estas etapas:
 
 1. Navegue até o diretório onde você salvou o arquivo \`fibonacci.js\`.
 2. Execute o script passando um número como argumento:
-   \`\`\`bash
+   \`\`\`
    node fibonacci.js <número>
    \`\`\`
    Substitua \`<número>\` pelo número desejado.
 
    **Exemplo de execução:**
-   \`\`\`bash
+   \`\`\`
    node fibonacci.js 21
    \`\`\`
 
@@ -26,13 +26,13 @@ Para calcular a sequência de Fibonacci, siga estas etapas:
 Para verificar uma string, siga estas etapas:
 
 1. Execute o script passando uma string como argumento:
-   \`\`\`bash
+   \`\`\`
    node verifica.js <string>
    \`\`\`
    Substitua \`<string>\` pela string desejada.
 
    **Exemplo de execução:**
-   \`\`\`bash
+   \`\`\`
    node verifica.js "A raposa marrom pula sobre o cão"
    \`\`\`
 
