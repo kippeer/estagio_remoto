@@ -1,0 +1,23 @@
+Resposta 1 - fibonacci
+
+Requisitos
+Node.js (você pode verificar se já está instalado com node -v)
+
+
+Execute o script:
+
+Abra o terminal, navegue até o diretório onde você salvou o arquivo fibonacci.js, e execute o script passando um número como argumento.
+
+-Digite o comando no terminal :
+
+node fibonacci.js <número>
+
+
+Substitua <número> pelo número que você deseja verificar. Por exemplo:
+
+
+Exemplo de execução:
+
+node fibonacci.js 21
+
+------------------------------------------------
