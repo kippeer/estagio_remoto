@@ -28,10 +28,10 @@ Obs: A expressão regular fornecida const regex = /a|à|á|â|ã|ä|å/g; é pro
 Para verificar uma string, siga estas etapas:
 
 1. Execute o script passando uma string como argumento:
-   \`\`\`
-   node verifica.js <string>
-   \`\`\`
-   Substitua \`<string>\` pela string desejada.
+   
+   node verifica.js 'string'
+   
+   Substitua 'string' pela string desejada.
 
    **Exemplo de execução:**
    
