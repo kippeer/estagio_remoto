@@ -10,16 +10,16 @@
 Para calcular a sequência de Fibonacci, siga estas etapas:
 
 1. Navegue até o diretório onde você salvou o arquivo \`fibonacci.js\`.
-2. Execute o script passando um número como argumento:
+2. Execute o script no terminal passando um número como argumento:
    \`\`\`
    node fibonacci.js <número>
    \`\`\`
    Substitua \`<número>\` pelo número desejado.
 
    **Exemplo de execução:**
-   \`\`\`
+   
    node fibonacci.js 21
-   \`\`\`
+   
 
 ## Resposta 2: Verificar Letra
 
@@ -32,9 +32,9 @@ Para verificar uma string, siga estas etapas:
    Substitua \`<string>\` pela string desejada.
 
    **Exemplo de execução:**
-   \`\`\`
+   
    node verifica.js "A raposa marrom pula sobre o cão"
-   \`\`\`
+   
 
 ## Resposta 3
 
