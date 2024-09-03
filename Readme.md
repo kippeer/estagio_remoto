@@ -1,7 +1,3 @@
-# Projeto de Respostas
-
-Este repositório contém soluções para problemas específicos. Abaixo estão os detalhes sobre como executar e verificar as respostas para cada um dos problemas.
-
 ## Requisitos
 
 - **Node.js**: Certifique-se de que o Node.js esteja instalado. Você pode verificar se ele está instalado com o comando:
